@@ -157,9 +157,6 @@ OPENAI_API_KEY=your-key  npx mcp-eval src/evals/evals.ts src/index.ts
 4. Push to the branch
 5. Create a Pull Request
 
-
 ## License
 
 This project is licensed under the AGPLv3 License - see LICENSE file for details.
-
-
