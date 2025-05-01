@@ -21,6 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "@modelcontextprotocol/sdk": "latest",
+    "mcp-evals": "^1.0.18",
     "pg": "^8.11.0",
     "pg-monitor": "^2.0.0"
   },
