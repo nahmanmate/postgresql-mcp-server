@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nahmanmate-postgresql-mcp-server-badge.png)](https://mseep.ai/app/nahmanmate-postgresql-mcp-server)
+
 # PostgreSQL MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@nahmanmate/postgresql-mcp-server)](https://smithery.ai/server/@nahmanmate/postgresql-mcp-server)
